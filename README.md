@@ -20,4 +20,4 @@ https://olgunayse.github.io/
 - GitHub Pages
 
 ## Summary & Purpose
-This website is structured using semantic HTML and styled with an external CSS file to improve readability and organization. My goal was to create a simple, clean layout while meeting all assignment requirements. This project also allowed me to practice building a webpage from scratch, applying CSS styling, and publishing a live website using GitHub and version control.
+The site has a clear and organized structure built with semantic HTML and external CSS. I wanted to keep the layout simple and clean while still meeting the assignment requirements. This project also gave me the chance to build a webpage from scratch, style it with CSS, and publish a live website using GitHub and version control.
