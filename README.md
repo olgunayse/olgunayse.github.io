@@ -1,7 +1,7 @@
 # Personal Introduction Website
 *My Professional Project Repository*
 
-This project is a personal introduction website that I built using HTML and CSS. It provides a brief overview of who I am, what I am studying, and my interests as I continue developing my skills in web development.
+This project is a personal introduction website that I built using HTML and CSS. It provides a summary of who I am, what I am studying, and my interests as I continue developing my skills in web development.
 
 ## Live Website
 https://olgunayse.github.io/
