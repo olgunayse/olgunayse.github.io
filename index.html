@@ -4,51 +4,69 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>My Personal Introduction</title>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
   </head>
 
   <body>
-    <header>
-      <h1>Welcome to My Page</h1>
-      <h2>Ayse Olgundeney</h2>
-      <p class="subtitle">
-        Student • Texas Tech University • Real Estate • Dallas, TX
-      </p>
-    </header>
+    <main class="page">
+      <header class="top-section">
+        <div class="name-block">
+          <h1>Ayse<br />Olgundeney</h1>
+          <p class="role">WELCOME TO MY PAGE</p>
+        </div>
 
-    <main>
-      <p class="intro">
-        This website is an introduction to who I am and what I am studying. It also highlights my interests and goals as I continue learning more about technology and web development.
-      </p>
+        <div class="quick-info">
+          <p><strong>Student</strong></p>
+          <p><strong>Texas Tech University</strong></p>
+          <p><strong>Real Estate</strong></p>
+          <p><strong>Dallas, TX</strong></p>
+        </div>
+      </header>
 
-      <section>
-        <h3>About Me</h3>
+      <section class="intro-line">
         <p>
-         I am currently studying Computer Applications at TTU.  I'm really into technology, software, and how the digital world connects us to the physical world. Because I'm currently working in real estate, I am very excited about the transparency and usefulness of information to both agents and clients that technology can provide.        </p>
-
-        <p>
-          I want to become more familiar with HTML and learn how websites are built while developing my planning skills, so I can create a clear plan before starting a project. I have learned from experience that having a plan will make the entire process much easier.
+          This website is an introduction to who I am and what I am studying. It also highlights my interests and goals as I continue learning more about technology and web development.
         </p>
       </section>
 
-      <section>
-        <h3>My Interests</h3>
-        <ul>
-          <li>Exploring new places and visiting other countries</li>
-          <li>Learning about technology and reading</li>
-          <li>Playing the piano</li>
-        </ul>
-      </section>
-    </main>
+      <section class="content-grid">
+        <div class="left-column">
+          <section class="panel">
+            <h2>About Me</h2>
+            <p>
+              I am currently studying Computer Applications at TTU. I'm really into technology, software, and how the digital world connects us to the physical world. Because I'm currently working in real estate, I am very excited about the transparency and usefulness of information to both agents and clients that technology can provide.
+            </p>
 
-    <footer>
-      <p>
-        Link to my GitHub:
-        <a href="https://github.com/olgunayse" target="_blank" rel="noopener noreferrer">
-          GitHub Profile
-        </a>
-      </p>
-    </footer>
+            <p>
+              I want to become more familiar with HTML and learn how websites are built while developing my planning skills, so I can create a clear plan before starting a project. I have learned from experience that having a plan will make the entire process much easier.
+            </p>
+          </section>
+        </div>
+
+        <div class="right-column">
+          <section class="panel">
+            <h2>My Interests</h2>
+            <ul>
+              <li>Exploring new places and visiting other countries</li>
+              <li>Learning about technology and reading</li>
+              <li>Playing the piano</li>
+            </ul>
+          </section>
+        </div>
+      </section>
+
+      <footer>
+        <p>
+          GitHub:
+          <a href="https://github.com/olgunayse" target="_blank" rel="noopener noreferrer">
+            GitHub Profile
+          </a>
+        </p>
+      </footer>
+    </main>
   </body>
 </html>
