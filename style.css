@@ -1,19 +1,16 @@
 body {
-  background-color: #f9fbff; /* much lighter */
+  background-color: #dbeafe;
   margin: 0;
   padding: 50px 20px;
   font-family: Arial, sans-serif;
-  color: #2c3e73;
 }
 
-/* centered narrow layout (resume feel) */
 body > * {
-  max-width: 650px;
+  max-width: 700px;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* header */
 header {
   text-align: center;
   margin-bottom: 40px;
@@ -21,69 +18,79 @@ header {
 
 h1 {
   color: #001f3f;
-  font-size: 36px;
+  font-size: 38px;
+  margin-top: 0;
   margin-bottom: 8px;
   font-family: 'Playfair Display', serif;
+  border-bottom: 2px solid #1b2558;
+  padding-bottom: 10px;
 }
 
 h2 {
   color: #1b2558;
-  font-size: 20px;
-  margin: 0;
+  font-size: 22px;
+  margin-top: 12px;
+  margin-bottom: 6px;
   font-family: 'Playfair Display', serif;
 }
 
 .subtitle {
   color: #4a5fa3;
-  margin-top: 8px;
+  margin-top: 0;
+  margin-bottom: 0;
   font-size: 15px;
 }
 
-/* intro at top */
+main {
+  max-width: 650px;
+}
+
 .intro {
-  font-size: 15px;
+  color: #4a5fa3;
   line-height: 1.8;
-  margin-bottom: 30px;
+  margin-bottom: 32px;
 }
 
-/* sections */
 section {
   margin-bottom: 35px;
 }
 
-/* section headers (resume style) */
 h3 {
   color: #001f3f;
   font-size: 16px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  margin-bottom: 10px;
-  border-bottom: 1px solid #dbeafe;
-  padding-bottom: 5px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #1b2558;
   font-family: 'Playfair Display', serif;
 }
 
-/* text */
 p {
-  margin-bottom: 15px;
-  line-height: 1.7;
   color: #4a5fa3;
+  line-height: 1.8;
+  margin-bottom: 18px;
 }
 
-/* list */
 ul {
-  padding-left: 18px;
+  padding-left: 20px;
+  margin-top: 0;
+  margin-bottom: 20px;
 }
 
 li {
-  margin-bottom: 6px;
+  color: #2c3e73;
+  margin-bottom: 8px;
 }
 
-/* footer */
 footer {
   margin-top: 40px;
   text-align: center;
-  font-size: 14px;
+}
+
+footer p {
+  margin-bottom: 0;
 }
 
 a {
@@ -93,5 +100,6 @@ a {
 }
 
 a:hover {
+  color: #001f3f;
   text-decoration: underline;
 }
