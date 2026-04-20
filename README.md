@@ -1,23 +1,31 @@
 # Personal Introduction Website
-*My Professional Project Repository*
 
-This project is a personal introduction website that I built using HTML and CSS. It provides a summary of who I am, what I am studying, and my interests as I continue developing my skills in web development.
+## Summary
+The basic idea behind this website is to create a personal page that I built using HTML and CSS. It introduces who I am, what I’m studying, and some of my interests as I start learning more about web development.
 
 ## Live Website
 https://olgunayse.github.io/
 
-## Features
-- Semantic HTML structure (header, main, footer)
-- External CSS for styling
-- Clean layout with consistent spacing and colors
-- Simple and easy to navigate design
+## Purpose
+The goal of this project (01) was to get used to using basic HTML structure, apply CSS styling, and publish a live website using GitHub Pages.
 
-## Resources
+## Features
+- Uses semantic HTML (header, main, footer)
+- Styled with an external CSS file
+- Clean and simple layout
+- Adjusts for smaller screens
+- Built by experimenting with the box model concepts from our earlier exercise to create a more unique layout
+
+## Resources Used
 - HTML
 - CSS
 - Visual Studio Code
 - GitHub Desktop
 - GitHub Pages
 
-## Summary & Purpose
-The site has a clear and organized structure built with semantic HTML and external CSS. I wanted to keep the layout simple and clean while still meeting the assignment requirements. This project also gave me the chance to build a webpage from scratch, style it with CSS, and publish a live website using GitHub and version control.
+## What I Learned
+This project helped me understand how to structure a webpage properly, separate design from content, and use GitHub to manage and publish my work.
+
+## Created By
+Ayse Olgundeney  
+https://github.com/olgunayse
