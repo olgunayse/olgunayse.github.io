@@ -1,7 +1,7 @@
 # Personal Introduction Website
 
 ## Summary
-The basic idea behind this website is to create a personal page that I built using HTML and CSS. It introduces who I am, what I’m studying, and some of my interests as I start learning more about web development.
+The basic idea behind this website is to create a personal page that I built using HTML and CSS. It introduces who I am, what I’m studying, and some of my interests as I start learning more about developing websites.
 
 ## Live Website
 https://olgunayse.github.io/
