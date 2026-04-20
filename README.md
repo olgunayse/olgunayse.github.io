@@ -23,7 +23,7 @@ The goal of this project (01) was to get used to using basic HTML structure, app
 - GitHub Desktop
 - GitHub Pages
 
-## What I Learned
+## Things I Learned
 This project helped me understand how to structure a webpage properly, separate design from content, and use GitHub to manage and publish my work.
 
 ## Created By
