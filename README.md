@@ -7,7 +7,7 @@ The basic idea behind this website is to create a personal page that I built usi
 https://olgunayse.github.io/
 
 ## Purpose
-The goal of this project (01) was to get used to using basic HTML structure, apply CSS styling, and publish a live website using GitHub Pages.
+The goal of this project (02) was to get used to using basic HTML structure, apply CSS styling, and publish a live website using GitHub Pages.
 
 ## Features
 - Uses semantic HTML (header, main, footer)
