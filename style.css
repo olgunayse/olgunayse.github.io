@@ -6,6 +6,11 @@ body {
   color: #111111;
 }
 
+/* Font-family Fix */
+p {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+}
+
 .page {
   max-width: 950px;
   margin: 0 auto;
@@ -24,7 +29,7 @@ body {
 }
 
 .name-block h1 {
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Playfair Display", Georgia, serif;
   font-size: 58px;
   line-height: 0.95;
   letter-spacing: 1px;
